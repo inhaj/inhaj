@@ -2,6 +2,13 @@
 
 <div align="center">
  
+## BackEnd Developer
+Hi, I'm interesting in DDD & MSA. 
+
+Contact me  wprkfdlsgk@gmail.com
+
+ 
+
 # 👩‍💻 Skills
   
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) 
