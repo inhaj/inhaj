@@ -21,6 +21,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wprkfdlsgk)](https://solved.ac/profile/wprkfdlsgk)  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=enaa99&show_icons=true&locale=en" alt="enaa99" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enaa99&show_icons=true&locale=en&layout=compact" alt="enaa99" />
 </div>
