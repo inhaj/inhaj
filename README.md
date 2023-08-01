@@ -11,8 +11,9 @@ Currently using Cpp
  
 
 # 👩‍💻 Skills
+
   
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) 
+![cplusplus Badge](https://img.shields.io/badge/c++-3776AB?style=flat&logo=cplusplus&logoColor=white) 
 ![Js Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java8&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) 
