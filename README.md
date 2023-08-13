@@ -26,7 +26,10 @@ Currently using Cpp
 <br/>
  　
  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wprkfdlsgk)](https://solved.ac/profile/wprkfdlsgk)  
+<div/>
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=enaa99&show_icons=true&theme=gruvbox)
 
+</div>
 
 </div>
