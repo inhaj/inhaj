@@ -4,8 +4,7 @@
  
 ## BackEnd Developer 
 Interesting in DDD & MSA. </br>
-Currently using Cpp
-
+Currently using Cpp, Node.js, Python 
 
 
  
