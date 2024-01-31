@@ -24,10 +24,15 @@ Currently using Cpp, Node.js, Python
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
 <br/>
- 　
+
+       
+            
+<br>
+<br>
  
 <div/>
   
+![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=enaa99&layout=compact&theme=nightowl)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=enaa99&show_icons=true&theme=gruvbox)
 
 </div>
