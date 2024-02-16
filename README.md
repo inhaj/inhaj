@@ -6,7 +6,7 @@
 Interesting in DDD & MSA. </br>
 Currently using Cpp, Node.js, Python 
 
-
+Contact : wprkfdlsgk@gmail.com
  
 
 # 👩‍💻 Skills
