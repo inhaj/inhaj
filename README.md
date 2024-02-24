@@ -32,8 +32,8 @@ Contact : wprkfdlsgk@gmail.com
  
 <div/>
   
-![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=enaa99&layout=compact&theme=nightowl)
-![Github stats](https://github-readme-stats.vercel.app/api?username=enaa99&show_icons=true&theme=gruvbox)
+![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=inhaj&layout=compact&theme=nightowl)
+![Github stats](https://github-readme-stats.vercel.app/api?username=inhaj&show_icons=true&theme=gruvbox)
 
 </div>
 
