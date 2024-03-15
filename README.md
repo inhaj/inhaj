@@ -3,7 +3,7 @@
 <div align="center">
  
 ## BackEnd Developer 
-Interesting in DDD & MSA. </br>
+Interesting in Challenge to solve Problem </br>
 Currently using Cpp, Node.js, Python 
 
 Contact : wprkfdlsgk@gmail.com
