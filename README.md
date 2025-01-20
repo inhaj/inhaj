@@ -4,7 +4,10 @@
  
 ## BackEnd Developer 
 Interesting in Challenge to solve Problem </br>
-Currently using on Python, Flutter
+Currently using on Python, Java
+
+Creating Trading Bot by python
+Creating Payment Service by Java(Spring)
 
 Contact : wprkfdlsgk@gmail.com
  
