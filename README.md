@@ -4,10 +4,11 @@
  
 ## BackEnd Developer 
 Interesting in Challenge to solve Problem </br>
-Currently using on Python, Java
+Currently using on Python, Java, PHP, Vue.js
 
-Creating Trading Bot by python
+Creating Trading Bot by python</br>
 Creating Payment Service by Java(Spring)
+Creating Web Chating Service (Laravel, Vue.js)
 
 Contact : wprkfdlsgk@gmail.com
  
